@@ -3,3 +3,4 @@ latex_error.log
 venv/
 EPL_paper/latex_error.log
 .DS_Store
+qml-mooc/
